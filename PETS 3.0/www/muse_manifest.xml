@@ -1,0 +1,69 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pets.com.br" resolutions="1x" timestamp="1598906397886">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-mestre.css" crc="441793456" ref="marcar:compras:index"/>
+    <file name="marcar.css" crc="492416752" ref="marcar"/>
+    <file name="compras.css" crc="351541206" ref="compras"/>
+    <file name="index.css" crc="4213689844" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:marcar:compras"/>
+    <file name="museutils.js" crc="340535759" ref="index:marcar:compras"/>
+    <file name="whatinput.js" crc="86476730" ref="index:marcar:compras"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:marcar:compras"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:marcar:compras"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:marcar:compras"/>
+    <file name="require.js" crc="7928878" ref="index:marcar:compras"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="156378338" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="249102700" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4022967790" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u122-4.png" crc="4183941156" ref="index:marcar:compras"/>
+    <file name="4.jpg" crc="4187929748" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4023265482" ref="marcar">
+      <caption webpage="marcar" alt=""/>
+    </file>
+    <file name="6.jpg" crc="4254632212" ref="compras">
+      <caption webpage="compras" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4243413558" ref="compras">
+      <caption webpage="compras" alt=""/>
+    </file>
+    <file name="8.jpg" crc="4135004523" ref="compras">
+      <caption webpage="compras" alt=""/>
+    </file>
+    <file name="9.jpg" crc="444046184" ref="compras">
+      <caption webpage="compras" alt=""/>
+    </file>
+    <file name="10.jpg" crc="3853985070" ref="compras">
+      <caption webpage="compras" alt=""/>
+    </file>
+    <file name="11.jpg" crc="459736651" ref="compras">
+      <caption webpage="compras" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4273733906" ref="compras">
+      <caption webpage="compras" alt=""/>
+    </file>
+    <file name="13.jpg" crc="62746072" ref="compras">
+      <caption webpage="compras" alt=""/>
+    </file>
+    <file name="14.jpg" crc="4124803794" ref="compras">
+      <caption webpage="compras" alt=""/>
+    </file>
+    <file name="15.jpg" crc="454752642" ref="compras">
+      <caption webpage="compras" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4129728572" seo="true" mt="1598906350473" redirect="true"/>
+  <file name="marcar.html" crc="413655356" seo="true" mt="1598906365584" redirect="true"/>
+  <file name="compras.html" crc="63857483" seo="true" mt="1598906350473" redirect="true"/>
+</manifest>
